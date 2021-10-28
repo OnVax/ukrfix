@@ -26,6 +26,12 @@
           "caseSensitive": false
         },
         {
+          "input": "A. Функциональные повреждения.",
+          "inputType": "text",
+          "output": "A. Uszkodzenie funkcjonalne.",
+          "caseSensitive": false
+        },
+        {
           "input": "A. Думка / Без дефектів.",
           "inputType": "text",
           "output": "A. Opinia / Brak wad. ",
@@ -197,6 +203,12 @@
           "input": "A. Дірка.",
           "inputType": "text",
           "output": "A. Dziura.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Слои ленты.",
+          "inputType": "text",
+          "output": "A. Warstwy taśmy.",
           "caseSensitive": false
         }
       ],
