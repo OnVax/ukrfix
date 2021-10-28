@@ -152,6 +152,12 @@
           "caseSensitive": false
         },
         {
+          "input": "Q. Чи пошкоджено пломбу на упаковці з позицією? ",
+          "inputType": "text",
+          "output": "Q. Czy plomba jest uszkodzona?",
+          "caseSensitive": false
+        },
+        {
           "input": "Q. Повреждено ли запечатывание упаковки с единицей товара?",
           "inputType": "text",
           "output": "Q. Czy plomba jest uszkodzona?",
@@ -176,6 +182,12 @@
           "caseSensitive": false
         },
         {
+          "input": "A. Так.",
+          "inputType": "text",
+          "output": "A. Tak.",
+          "caseSensitive": false
+        },
+        {
           "input": "Q. Отсутствуют ли детали или аксессуары у этой единицы товара? ",
           "inputType": "text",
           "output": "Q. Czy brakuje części przedmiotu lub akcesoriów?",
@@ -189,6 +201,12 @@
         },
         {
           "input": "A. Отсутствует коробка.",
+          "inputType": "text",
+          "output": "A. Brakujace opakowanie.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Відсутня коробка.",
           "inputType": "text",
           "output": "A. Brakujace opakowanie.",
           "caseSensitive": false
@@ -209,6 +227,48 @@
           "input": "A. Слои ленты.",
           "inputType": "text",
           "output": "A. Warstwy taśmy.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Шари стрічки.",
+          "inputType": "text",
+          "output": "A. Warstwy taśmy.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Скотч НЕ є закриваючим механізмом.",
+          "inputType": "text",
+          "output": "A. Tasma nie jest zamknieciem.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Поліетиленовий пакет.",
+          "inputType": "text",
+          "output": "A. Polybag.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Термозбіжна плівка.",
+          "inputType": "text",
+          "output": "A. Folia termokurczliwa.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Термошов.",
+          "inputType": "text",
+          "output": "A. Zgrzew.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Скотч є закриваючим механізмом.",
+          "inputType": "text",
+          "output": "A. Tasma jest zamknieciem.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Інформація про клієнта.",
+          "inputType": "text",
+          "output": "A. Іnformacje o kliencie.",
           "caseSensitive": false
         }
       ],
