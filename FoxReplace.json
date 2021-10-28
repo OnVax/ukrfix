@@ -1,0 +1,208 @@
+{
+  "version": "2.1",
+  "groups": [
+    {
+      "name": "https://eu-cretfc-tools-dub.dub.proxy.amazon.com",
+      "urls": [
+        "https://eu-cretfc-tools-dub.dub.proxy.amazon.com/gravis/returnUnit/*"
+      ],
+      "substitutions": [
+        {
+          "input": " Q. Что описывает клиент? ",
+          "inputType": "text",
+          "output": "Q. Co opisuje klient?",
+          "caseSensitive": false
+        },
+        {
+          "input": "Q. Про що говорить клієнт?",
+          "inputType": "text",
+          "output": "Q. Co opisuje klient?",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Функціональне пошкодження.",
+          "inputType": "text",
+          "output": "A. Uszkodzenie funkcjonalne.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Думка / Без дефектів.",
+          "inputType": "text",
+          "output": "A. Opinia / Brak wad. ",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Мнение/нет дефектов.",
+          "inputType": "text",
+          "output": "A. Opinia / Brak wad. ",
+          "caseSensitive": false
+        },
+        {
+          "input": "Q. Тип пломби",
+          "inputType": "text",
+          "output": "Q. Rodzaj plomby",
+          "caseSensitive": false
+        },
+        {
+          "input": "Q. Тип запечатывания",
+          "inputType": "text",
+          "output": "Q. Rodzaj plomby",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Пломба відсутня.",
+          "inputType": "text",
+          "output": "A. Brak plomby.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Не запечатано.",
+          "inputType": "text",
+          "output": "A. Brak plomby.",
+          "caseSensitive": false
+        },
+        {
+          "input": "Q. Тип упаковки",
+          "inputType": "text",
+          "output": "Q. Rodzaj opakowania",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Непрозора коробка.",
+          "inputType": "text",
+          "output": "A. Nieprzezroczyste pudelko.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Opaque box.",
+          "inputType": "text",
+          "output": "A. Nieprzezroczyste pudelko.",
+          "caseSensitive": false
+        },
+        {
+          "input": "Q. Тип пошкодження упаковки",
+          "inputType": "text",
+          "output": "Q. Rodzaj uszkodzenia paczki",
+          "caseSensitive": false
+        },
+        {
+          "input": "Q. Тип повреждения упаковки",
+          "inputType": "text",
+          "output": "Q. Rodzaj uszkodzenia paczki",
+          "caseSensitive": false
+        },
+        {
+          "input": "Q. Тип повреждения единицы товара ",
+          "inputType": "text",
+          "output": "Q. Rodzaj uszkodzenia przedmiotu",
+          "caseSensitive": false
+        },
+        {
+          "input": "Q. Тип пошкодження позиції ",
+          "inputType": "text",
+          "output": "Q. Rodzaj uszkodzenia przedmiotu",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Немає.",
+          "inputType": "text",
+          "output": "A. Brak.",
+          "caseSensitive": false
+        },
+        {
+          "input": "Q. Розмір пошкодження",
+          "inputType": "text",
+          "output": "Q. Rozmiar uszkodzenia",
+          "caseSensitive": false
+        },
+        {
+          "input": "Q. Размер повреждения",
+          "inputType": "text",
+          "output": "Q. Rozmiar uszkodzenia",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Ознаки використання.",
+          "inputType": "text",
+          "output": "A. Oznaki uzytkowania.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Подряпина.",
+          "inputType": "text",
+          "output": "A. Zarysowanie.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Штрих-код.",
+          "inputType": "text",
+          "output": "A. Kod kreskowy.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Zip Tie.",
+          "inputType": "text",
+          "output": "A. Opaska zaciskowa.",
+          "caseSensitive": false
+        },
+        {
+          "input": "Q. Повреждено ли запечатывание упаковки с единицей товара?",
+          "inputType": "text",
+          "output": "Q. Czy plomba jest uszkodzona?",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Ні.",
+          "inputType": "text",
+          "output": "A. Nie.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Нет.",
+          "inputType": "text",
+          "output": "A. Nie.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Да.",
+          "inputType": "text",
+          "output": "A. Tak.",
+          "caseSensitive": false
+        },
+        {
+          "input": "Q. Отсутствуют ли детали или аксессуары у этой единицы товара? ",
+          "inputType": "text",
+          "output": "Q. Czy brakuje części przedmiotu lub akcesoriów?",
+          "caseSensitive": false
+        },
+        {
+          "input": "Q. Чи відсутні деталі або аксесуари до позиції? ",
+          "inputType": "text",
+          "output": "Q. Czy brakuje części przedmiotu lub akcesoriów?",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Отсутствует коробка.",
+          "inputType": "text",
+          "output": "A. Brakujace opakowanie.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Відсутні деталі.",
+          "inputType": "text",
+          "output": "A. Brakujace czesci.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Дірка.",
+          "inputType": "text",
+          "output": "A. Dziura.",
+          "caseSensitive": false
+        }
+      ],
+      "html": "none",
+      "enabled": true,
+      "mode": "auto&manual"
+    }
+  ]
+}
