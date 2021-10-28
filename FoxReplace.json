@@ -32,6 +32,12 @@
           "caseSensitive": false
         },
         {
+          "input": "A. Косметические повреждения.",
+          "inputType": "text",
+          "output": "A. Uszkodzenie kosmetyczne.",
+          "caseSensitive": false
+        },
+        {
           "input": "A. Думка / Без дефектів.",
           "inputType": "text",
           "output": "A. Opinia / Brak wad. ",
@@ -254,6 +260,12 @@
           "caseSensitive": false
         },
         {
+          "input": "A. Термоусадочная обертка.",
+          "inputType": "text",
+          "output": "A. Folia termokurczliwa.",
+          "caseSensitive": false
+        },
+        {
           "input": "A. Термошов.",
           "inputType": "text",
           "output": "A. Zgrzew.",
@@ -261,6 +273,12 @@
         },
         {
           "input": "A. Скотч є закриваючим механізмом.",
+          "inputType": "text",
+          "output": "A. Tasma jest zamknieciem.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Tape is closing mechanism.",
           "inputType": "text",
           "output": "A. Tasma jest zamknieciem.",
           "caseSensitive": false
