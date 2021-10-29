@@ -402,6 +402,18 @@
           "inputType": "text",
           "output": "A. Zszywki.",
           "caseSensitive": false
+        },
+        {
+          "input": "A. Написание.",
+          "inputType": "text",
+          "output": "A. Napisy.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Скрепляющий ремень.",
+          "inputType": "text",
+          "output": "A. Opaska zaciskowa.",
+          "caseSensitive": false
         }
       ],
       "html": "none",
