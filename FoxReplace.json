@@ -140,6 +140,12 @@
           "caseSensitive": false
         },
         {
+          "input": "A. Признаки использования",
+          "inputType": "text",
+          "output": "A. Oznaki uzytkowania.",
+          "caseSensitive": false
+        },
+        {
           "input": "A. Подряпина.",
           "inputType": "text",
           "output": "A. Zarysowanie.",
@@ -254,6 +260,12 @@
           "caseSensitive": false
         },
         {
+          "input": "A. Полиэтиленовый мешок.",
+          "inputType": "text",
+          "output": "A. Polybag.",
+          "caseSensitive": false
+        },
+        {
           "input": "A. Термозбіжна плівка.",
           "inputType": "text",
           "output": "A. Folia termokurczliwa.",
@@ -287,6 +299,108 @@
           "input": "A. Інформація про клієнта.",
           "inputType": "text",
           "output": "A. Іnformacje o kliencie.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Информация о клиенте.",
+          "inputType": "text",
+          "output": "A. Іnformacje o kliencie.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Зламано.",
+          "inputType": "text",
+          "output": "A. Zniszczenie.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Непрозора пластикова упаковка.",
+          "inputType": "text",
+          "output": "A. Nieprzezroczyste plastikowe opakowanie.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Плями.",
+          "inputType": "text",
+          "output": "A. Plamy.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Заводська пломба.",
+          "inputType": "text",
+          "output": "A. Plomba fabryczna.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Заводское запечатывание.",
+          "inputType": "text",
+          "output": "A. Plomba fabryczna.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Порез или разрыв.",
+          "inputType": "text",
+          "output": "A. Naciecie.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Bigger than 2x badge length.",
+          "inputType": "text",
+          "output": "A. Wieksze niz 2x dlugosc plakietki.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Клеевой диск.",
+          "inputType": "text",
+          "output": "A. Tasma samoprzylepna.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Сгиб или излом.",
+          "inputType": "text",
+          "output": "A. Zgiecie/zgniecenie.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. 1/2 Badge width.",
+          "inputType": "text",
+          "output": "A. 1/2 szerokosci plakietki.",
+          "caseSensitive": false
+        },
+        {
+          "input": " Q. Додайте пошкодження обкладинки ",
+          "inputType": "text",
+          "output": "Q. Uszkodzenie okladki.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Згин/зминання.",
+          "inputType": "text",
+          "output": "A. Zgiecie/zgniecenie.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Більше за ширину бейджа.",
+          "inputType": "text",
+          "output": "A. Wieksze niz szerokosc plakietki.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Сломан.",
+          "inputType": "text",
+          "output": "A. Zniszczenie.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Отверстие.",
+          "inputType": "text",
+          "output": "A. Dziura.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Скобы.",
+          "inputType": "text",
+          "output": "A. Zszywki.",
           "caseSensitive": false
         }
       ],
