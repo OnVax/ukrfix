@@ -380,6 +380,12 @@
           "caseSensitive": false
         },
         {
+          "input": " Q. Повідомте про пошкодження сторінки ",
+          "inputType": "text",
+          "output": "Q. Uszkodzenie strony.",
+          "caseSensitive": false
+        },
+        {
           "input": "A. Згин/зминання.",
           "inputType": "text",
           "output": "A. Zgiecie/zgniecenie.",
@@ -470,6 +476,12 @@
           "caseSensitive": false
         },
         {
+          "input": "A. 1/2 ширини бейджа.",
+          "inputType": "text",
+          "output": "A. 1/2 szerokosci plakietki.",
+          "caseSensitive": false
+        },
+        {
           "input": "A. Довжина бейджа.",
           "inputType": "text",
           "output": "A. Dlugosc plakietki",
@@ -509,6 +521,12 @@
           "input": "A. Царапины.",
           "inputType": "text",
           "output": "A. Zadrapanie.",
+          "caseSensitive": false
+        },
+        {
+          "input": "Q. Товару бракує аксесуарів або носіїв у комплекті? ",
+          "inputType": "text",
+          "output": "Q. Czy brakuje akcesoriów/dodatków lub są one uszkodzone?",
           "caseSensitive": false
         }
       ],
