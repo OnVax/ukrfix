@@ -38,6 +38,12 @@
           "caseSensitive": false
         },
         {
+          "input": "A. Косметичне пошкодження.",
+          "inputType": "text",
+          "output": "A. Uszkodzenie kosmetyczne.",
+          "caseSensitive": false
+        },
+        {
           "input": "A. Думка / Без дефектів.",
           "inputType": "text",
           "output": "A. Opinia / Brak wad. ",
@@ -326,6 +332,12 @@
           "caseSensitive": false
         },
         {
+          "input": "A. Пятна.",
+          "inputType": "text",
+          "output": "A. Plamy.",
+          "caseSensitive": false
+        },
+        {
           "input": "A. Заводська пломба.",
           "inputType": "text",
           "output": "A. Plomba fabryczna.",
@@ -344,13 +356,13 @@
           "caseSensitive": false
         },
         {
-          "input": "A. Bigger than 2x badge length.",
+          "input": "A. Клеевой диск.",
           "inputType": "text",
-          "output": "A. Wieksze niz 2x dlugosc plakietki.",
+          "output": "A. Tasma samoprzylepna.",
           "caseSensitive": false
         },
         {
-          "input": "A. Клеевой диск.",
+          "input": "A. Кругла наклейка.",
           "inputType": "text",
           "output": "A. Tasma samoprzylepna.",
           "caseSensitive": false
@@ -359,12 +371,6 @@
           "input": "A. Сгиб или излом.",
           "inputType": "text",
           "output": "A. Zgiecie/zgniecenie.",
-          "caseSensitive": false
-        },
-        {
-          "input": "A. 1/2 Badge width.",
-          "inputType": "text",
-          "output": "A. 1/2 szerokosci plakietki.",
           "caseSensitive": false
         },
         {
@@ -377,12 +383,6 @@
           "input": "A. Згин/зминання.",
           "inputType": "text",
           "output": "A. Zgiecie/zgniecenie.",
-          "caseSensitive": false
-        },
-        {
-          "input": "A. Більше за ширину бейджа.",
-          "inputType": "text",
-          "output": "A. Wieksze niz szerokosc plakietki.",
           "caseSensitive": false
         },
         {
@@ -406,13 +406,109 @@
         {
           "input": "A. Написание.",
           "inputType": "text",
-          "output": "A. Napisy.",
+          "output": "A. Napis.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Напис.",
+          "inputType": "text",
+          "output": "A. Napis.",
           "caseSensitive": false
         },
         {
           "input": "A. Скрепляющий ремень.",
           "inputType": "text",
           "output": "A. Opaska zaciskowa.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Стяжка.",
+          "inputType": "text",
+          "output": "A. Opaska zaciskowa.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Прозорий брендований пакет.",
+          "inputType": "text",
+          "output": "A. Przezroczysta torba oznaczona marka.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Клей.",
+          "inputType": "text",
+          "output": "A. Кlej.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Bigger than 2x badge length.",
+          "inputType": "text",
+          "output": "A. Wieksze niz 2x dlugosc plakietki.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Більше за ширину бейджа.",
+          "inputType": "text",
+          "output": "A. Wieksze niz szerokosc plakietki.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Badge width.",
+          "inputType": "text",
+          "output": "A. Szerokosc plakietki.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. У ширину бейджа.",
+          "inputType": "text",
+          "output": "A. Szerokosc plakietki.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. 1/2 Badge width.",
+          "inputType": "text",
+          "output": "A. 1/2 szerokosci plakietki.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Довжина бейджа.",
+          "inputType": "text",
+          "output": "A. Dlugosc plakietki",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Зім’ятий кут.",
+          "inputType": "text",
+          "output": "A. Zgnieciony naroznik.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Зламано внутрішню опору упаковки.",
+          "inputType": "text",
+          "output": "A. Uszkodzenie konstrukcji struktury.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Розріз/розрив.",
+          "inputType": "text",
+          "output": "A. Naciecie.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Метка.",
+          "inputType": "text",
+          "output": "A. Мetka.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Непрозорий брендований пакет.",
+          "inputType": "text",
+          "output": "A. Nieprzezroczysta torba oznaczona marka.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Царапины.",
+          "inputType": "text",
+          "output": "A. Zadrapanie.",
           "caseSensitive": false
         }
       ],
