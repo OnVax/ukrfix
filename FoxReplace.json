@@ -452,6 +452,12 @@
           "caseSensitive": false
         },
         {
+          "input": "A. Удвічі довше за бейдж.",
+          "inputType": "text",
+          "output": "A. Wieksze niz 2x dlugosc plakietki.",
+          "caseSensitive": false
+        },
+        {
           "input": "A. Більше за ширину бейджа.",
           "inputType": "text",
           "output": "A. Wieksze niz szerokosc plakietki.",
@@ -496,7 +502,7 @@
         {
           "input": "A. Зламано внутрішню опору упаковки.",
           "inputType": "text",
-          "output": "A. Uszkodzenie konstrukcji struktury.",
+          "output": "A. Uszkodzone zabezpieczenie wewnątrz opakowania.",
           "caseSensitive": false
         },
         {
@@ -527,6 +533,12 @@
           "input": "Q. Товару бракує аксесуарів або носіїв у комплекті? ",
           "inputType": "text",
           "output": "Q. Czy brakuje akcesoriów/dodatków lub są one uszkodzone?",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Запах.",
+          "inputType": "text",
+          "output": "A. Zapach.",
           "caseSensitive": false
         }
       ],
