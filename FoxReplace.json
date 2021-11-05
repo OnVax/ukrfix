@@ -570,6 +570,12 @@
           "inputType": "text",
           "output": "A. Tasma mocujaca.",
           "caseSensitive": false
+        },
+        {
+          "input": "A. Прозора пластикова упаковка",
+          "inputType": "text",
+          "output": "A. Przezroczyste plastikowe opakowanie.",
+          "caseSensitive": false
         }
       ],
       "html": "none",
