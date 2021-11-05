@@ -86,6 +86,12 @@
           "caseSensitive": false
         },
         {
+          "input": "A. Прозора коробка.",
+          "inputType": "text",
+          "output": "A. Przezroczyste pudelko.",
+          "caseSensitive": false
+        },
+        {
           "input": "A. Непрозора коробка.",
           "inputType": "text",
           "output": "A. Nieprzezroczyste pudelko.",
@@ -539,6 +545,30 @@
           "input": "A. Запах.",
           "inputType": "text",
           "output": "A. Zapach.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Волосы.",
+          "inputType": "text",
+          "output": "A. Wlosy.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Crushed corner.",
+          "inputType": "text",
+          "output": "A. Zgnieciony naroznik",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Вмятина.",
+          "inputType": "text",
+          "output": "A. Wgniecenie.",
+          "caseSensitive": false
+        },
+        {
+          "input": "A. Стрічка для обв’язування.",
+          "inputType": "text",
+          "output": "A. Tasma mocujaca.",
           "caseSensitive": false
         }
       ],
