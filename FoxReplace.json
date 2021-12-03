@@ -10,637 +10,637 @@
         {
           "input": " Q. Что описывает клиент? ",
           "inputType": "text",
-          "output": "Q. Co opisuje klient?",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "Q. Про що говорить клієнт?",
           "inputType": "text",
-          "output": "Q. Co opisuje klient?",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Функціональне пошкодження.",
           "inputType": "text",
-          "output": "A. Uszkodzenie funkcjonalne.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Функциональные повреждения.",
           "inputType": "text",
-          "output": "A. Uszkodzenie funkcjonalne.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Косметические повреждения.",
           "inputType": "text",
-          "output": "A. Uszkodzenie kosmetyczne.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Косметичне пошкодження.",
           "inputType": "text",
-          "output": "A. Uszkodzenie kosmetyczne.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Думка / Без дефектів.",
           "inputType": "text",
-          "output": "A. Opinia / Brak wad. ",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Мнение/нет дефектов.",
           "inputType": "text",
-          "output": "A. Opinia / Brak wad. ",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "Q. Тип пломби",
           "inputType": "text",
-          "output": "Q. Rodzaj plomby",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "Q. Тип запечатывания",
           "inputType": "text",
-          "output": "Q. Rodzaj plomby",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Пломба відсутня.",
           "inputType": "text",
-          "output": "A. Brak plomby.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Не запечатано.",
           "inputType": "text",
-          "output": "A. Brak plomby.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "Q. Тип упаковки",
           "inputType": "text",
-          "output": "Q. Rodzaj opakowania",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Прозора коробка.",
           "inputType": "text",
-          "output": "A. Przezroczyste pudelko.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Непрозора коробка.",
           "inputType": "text",
-          "output": "A. Nieprzezroczyste pudelko.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Opaque box.",
           "inputType": "text",
-          "output": "A. Nieprzezroczyste pudelko.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "Q. Тип пошкодження упаковки",
           "inputType": "text",
-          "output": "Q. Rodzaj uszkodzenia paczki",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "Q. Тип повреждения упаковки",
           "inputType": "text",
-          "output": "Q. Rodzaj uszkodzenia paczki",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "Q. Тип повреждения единицы товара ",
           "inputType": "text",
-          "output": "Q. Rodzaj uszkodzenia przedmiotu",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "Q. Тип пошкодження позиції ",
           "inputType": "text",
-          "output": "Q. Rodzaj uszkodzenia przedmiotu",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Немає.",
           "inputType": "text",
-          "output": "A. Brak.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "Q. Розмір пошкодження",
           "inputType": "text",
-          "output": "Q. Rozmiar uszkodzenia",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "Q. Размер повреждения",
           "inputType": "text",
-          "output": "Q. Rozmiar uszkodzenia",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Ознаки використання.",
           "inputType": "text",
-          "output": "A. Oznaki uzytkowania.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Признаки использования",
           "inputType": "text",
-          "output": "A. Oznaki uzytkowania.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Подряпина.",
           "inputType": "text",
-          "output": "A. Zarysowanie.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Штрих-код.",
           "inputType": "text",
-          "output": "A. Kod kreskowy.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Zip Tie.",
           "inputType": "text",
-          "output": "A. Opaska zaciskowa.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "Q. Чи пошкоджено пломбу на упаковці з позицією? ",
           "inputType": "text",
-          "output": "Q. Czy plomba jest uszkodzona?",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "Q. Повреждено ли запечатывание упаковки с единицей товара?",
           "inputType": "text",
-          "output": "Q. Czy plomba jest uszkodzona?",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Ні.",
           "inputType": "text",
-          "output": "A. Nie.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Нет.",
           "inputType": "text",
-          "output": "A. Nie.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Да.",
           "inputType": "text",
-          "output": "A. Tak.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Так.",
           "inputType": "text",
-          "output": "A. Tak.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "Q. Отсутствуют ли детали или аксессуары у этой единицы товара? ",
           "inputType": "text",
-          "output": "Q. Czy brakuje części przedmiotu lub akcesoriów?",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "Q. Чи відсутні деталі або аксесуари до позиції? ",
           "inputType": "text",
-          "output": "Q. Czy brakuje części przedmiotu lub akcesoriów?",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Отсутствует коробка.",
           "inputType": "text",
-          "output": "A. Brakujace opakowanie.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Відсутня коробка.",
           "inputType": "text",
-          "output": "A. Brakujace opakowanie.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Відсутні деталі.",
           "inputType": "text",
-          "output": "A. Brakujace czesci.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Дірка.",
           "inputType": "text",
-          "output": "A. Dziura.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Слои ленты.",
           "inputType": "text",
-          "output": "A. Warstwy taśmy.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Шари стрічки.",
           "inputType": "text",
-          "output": "A. Warstwy taśmy.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Скотч НЕ є закриваючим механізмом.",
           "inputType": "text",
-          "output": "A. Tasma nie jest zamknieciem.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Поліетиленовий пакет.",
           "inputType": "text",
-          "output": "A. Polybag.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Полиэтиленовый мешок.",
           "inputType": "text",
-          "output": "A. Polybag.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Термозбіжна плівка.",
           "inputType": "text",
-          "output": "A. Folia termokurczliwa.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Термоусадочная обертка.",
           "inputType": "text",
-          "output": "A. Folia termokurczliwa.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Термошов.",
           "inputType": "text",
-          "output": "A. Zgrzew.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Скотч є закриваючим механізмом.",
           "inputType": "text",
-          "output": "A. Tasma jest zamknieciem.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Tape is closing mechanism.",
           "inputType": "text",
-          "output": "A. Tasma jest zamknieciem.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Інформація про клієнта.",
           "inputType": "text",
-          "output": "A. Іnformacje o kliencie.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Информация о клиенте.",
           "inputType": "text",
-          "output": "A. Іnformacje o kliencie.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Зламано.",
           "inputType": "text",
-          "output": "A. Zniszczenie.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Непрозора пластикова упаковка.",
           "inputType": "text",
-          "output": "A. Nieprzezroczyste plastikowe opakowanie.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Плями.",
           "inputType": "text",
-          "output": "A. Plamy.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Пятна.",
           "inputType": "text",
-          "output": "A. Plamy.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Заводська пломба.",
           "inputType": "text",
-          "output": "A. Plomba fabryczna.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Заводское запечатывание.",
           "inputType": "text",
-          "output": "A. Plomba fabryczna.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Порез или разрыв.",
           "inputType": "text",
-          "output": "A. Naciecie.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Клеевой диск.",
           "inputType": "text",
-          "output": "A. Tasma samoprzylepna.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Кругла наклейка.",
           "inputType": "text",
-          "output": "A. Tasma samoprzylepna.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Сгиб или излом.",
           "inputType": "text",
-          "output": "A. Zgiecie/zgniecenie.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": " Q. Додайте пошкодження обкладинки ",
           "inputType": "text",
-          "output": "Q. Uszkodzenie okladki.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": " Q. Повідомте про пошкодження сторінки ",
           "inputType": "text",
-          "output": "Q. Uszkodzenie strony.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Згин/зминання.",
           "inputType": "text",
-          "output": "A. Zgiecie/zgniecenie.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Сломан.",
           "inputType": "text",
-          "output": "A. Zniszczenie.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Отверстие.",
           "inputType": "text",
-          "output": "A. Dziura.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Скобы.",
           "inputType": "text",
-          "output": "A. Zszywki.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Написание.",
           "inputType": "text",
-          "output": "A. Napis.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Напис.",
           "inputType": "text",
-          "output": "A. Napis.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Скрепляющий ремень.",
           "inputType": "text",
-          "output": "A. Opaska zaciskowa.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Стяжка.",
           "inputType": "text",
-          "output": "A. Opaska zaciskowa.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Прозорий брендований пакет.",
           "inputType": "text",
-          "output": "A. Przezroczysta torba oznaczona marka.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Клей.",
           "inputType": "text",
-          "output": "A. Кlej.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Bigger than 2x badge length.",
           "inputType": "text",
-          "output": "A. Wieksze niz 2x dlugosc plakietki.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Удвічі довше за бейдж.",
           "inputType": "text",
-          "output": "A. Wieksze niz 2x dlugosc plakietki.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Більше за ширину бейджа.",
           "inputType": "text",
-          "output": "A. Wieksze niz szerokosc plakietki.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Badge width.",
           "inputType": "text",
-          "output": "A. Szerokosc plakietki.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. У ширину бейджа.",
           "inputType": "text",
-          "output": "A. Szerokosc plakietki.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. 1/2 Badge width.",
           "inputType": "text",
-          "output": "A. 1/2 szerokosci plakietki.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. 1/2 ширини бейджа.",
           "inputType": "text",
-          "output": "A. 1/2 szerokosci plakietki.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Довжина бейджа.",
           "inputType": "text",
-          "output": "A. Dlugosc plakietki",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Зім’ятий кут.",
           "inputType": "text",
-          "output": "A. Zgnieciony naroznik.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Зламано внутрішню опору упаковки.",
           "inputType": "text",
-          "output": "A. Uszkodzone zabezpieczenie wewnątrz opakowania.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Розріз/розрив.",
           "inputType": "text",
-          "output": "A. Naciecie.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Метка.",
           "inputType": "text",
-          "output": "A. Мetka.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Непрозорий брендований пакет.",
           "inputType": "text",
-          "output": "A. Nieprzezroczysta torba oznaczona marka.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Царапины.",
           "inputType": "text",
-          "output": "A. Zadrapanie.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "Q. Товару бракує аксесуарів або носіїв у комплекті? ",
           "inputType": "text",
-          "output": "Q. Czy brakuje akcesoriów/dodatków lub są one uszkodzone?",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Запах.",
           "inputType": "text",
-          "output": "A. Zapach.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Волосы.",
           "inputType": "text",
-          "output": "A. Wlosy.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Crushed corner.",
           "inputType": "text",
-          "output": "A. Zgnieciony naroznik",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Вмятина.",
           "inputType": "text",
-          "output": "A. Wgniecenie.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Стрічка для обв’язування.",
           "inputType": "text",
-          "output": "A. Tasma mocujaca.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Прозора пластикова упаковка",
           "inputType": "text",
-          "output": "A. Przezroczyste plastikowe opakowanie.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Подряпина або потертість.",
           "inputType": "text",
-          "output": "A. Zadrapanie/zarysowanie",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Бирка.",
           "inputType": "text",
-          "output": "A. Metka.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Волосся, відбитки пальців або ворсинки.",
           "inputType": "text",
-          "output": "A. Wlosy, odciski palcow,klaczki.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
-          "input": "Q. Место повреждения единицы товара ",
+          "input": "Złoty chlebek.",
           "inputType": "text",
-          "output": "Q. Wielkosc uszkodzenia przedmiotu ",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": " Q. Добавить повреждение оболочки ",
           "inputType": "text",
-          "output": "Q. Dodaj uszkodzenie okładki",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "Q. Добавить повреждение страницы ",
           "inputType": "text",
-          "output": "Q. Dodaj uszkodzenie strony",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "Q. Отсутствует ли какие-либо аксессуары или комплектные носители информации для единицы товара? ",
           "inputType": "text",
-          "output": "Q. Czy brakuje akcesoriów/dodatków lub są one uszkodzone?",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Зламаність або тріщина.",
           "inputType": "text",
-          "output": "A. Zlamane, pekniete.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Гігієнічні проблеми.",
           "inputType": "text",
-          "output": "A. Problem higieniczny.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "Q. Місце пошкодження позиції ",
           "inputType": "text",
-          "output": "Q. Miejsce uszkodzenia przedmiotu.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         },
         {
           "input": "A. Сліди/Плями.",
           "inputType": "text",
-          "output": "A. Skazy/plamy.",
+          "output": "Złoty chlebek.",
           "caseSensitive": false
         }
       ],
